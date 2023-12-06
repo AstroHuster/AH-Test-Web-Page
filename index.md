@@ -5,4 +5,4 @@ I am learning how to use GitHub pages to document the Geneva College Observatory
 
 - [The Observatory](https://AstroHuster.github.io/AH-Test_Web_Page/The_Observatory.md)
 - [Try here](The_Observatory.md)
-- 
+- END
