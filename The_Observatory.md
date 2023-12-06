@@ -6,4 +6,4 @@ This file was renamed to `The_Observatory.md`.
 
 Add link back to main page.
 
-[**Back to Main Page**](https://astrohuster.github.io/AH-Test-Web-Page/index.md)
+[**Back to Main Page**](https://astrohuster.github.io/AH-Test-Web-Page/)
